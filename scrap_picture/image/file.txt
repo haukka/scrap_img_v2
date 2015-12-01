@@ -1,0 +1,1 @@
+Les images vont être stockées dans ce dossier.
